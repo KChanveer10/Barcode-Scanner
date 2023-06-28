@@ -1,1 +1,1 @@
-# KChanveer10.github.io
+# a simple barcode scanner built using HTML and Javascript
